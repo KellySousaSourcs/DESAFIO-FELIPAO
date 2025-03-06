@@ -36,3 +36,5 @@ if(nivelDoHeroi <= 1.000){
 
     console.log(`O XP do Herói ${nomeDeHeroi} é Radiante`);
 }
+
+console.log(`O Herói ${nomeDeHeroi} está no nível ${nivelDoHeroi}`);
